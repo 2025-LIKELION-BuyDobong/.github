@@ -5,7 +5,8 @@
 </p>
 
 <p align="center" style="display: flex; text-align: center; gap: 10px;">
-    <img src="https://img.shields.io/github/stars/Likelion-To-Star/backend?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/2025-LIKELION-BuyDobong/2025-LIKELION-BuyDobong-FE?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/stars/2025-LIKELION-BuyDobong/2025-LIKELION-BuyDobong-BE?style=social" alt="GitHub stars">
 </p>
 
 ## I. 팀원 소개 (Team Members) 👥  
