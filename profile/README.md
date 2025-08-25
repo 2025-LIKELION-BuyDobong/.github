@@ -1,13 +1,11 @@
 ![Buy-Dobong](https://capsule-render.vercel.app/api?type=blur&color=auto&text=Buy-Dobong&height=auto&fontSize=auto&fontAlign=50&fontColor=auto)
   
 <p align="center">
-  음성 UX로 손쉽게 특가 등록을 하고, 이에 대한 정보를 받아볼 수 있는 플랫폼
+  <b>음성 UX로 손쉽게 특가 등록을 하고, 이에 대한 정보를 받아볼 수 있는 플랫폼</b>
 </p>
 
-<p align="center" style="display: flex; text-align: center; gap: 10px;">
-    <img src="https://img.shields.io/github/stars/2025-LIKELION-BuyDobong/2025-LIKELION-BuyDobong-FE?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/stars/2025-LIKELION-BuyDobong/2025-LIKELION-BuyDobong-BE?style=social" alt="GitHub stars">
-</p>
+<br><br>
+
 
 ## I. 팀원 소개 (Team Members) 👥  
 | 송은지(PM/DE) | 노진경(FE) | 최윤영(FE) | 고희주(BE) | 조희원(BE) |
