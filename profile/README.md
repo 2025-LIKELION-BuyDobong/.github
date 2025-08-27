@@ -45,7 +45,7 @@
 - 🗄️ **MySQL**: 효율적인 데이터베이스 관리
 - ☁️ **AWS**: 클라우드 배포 및 관리
 - 🚀 **CI/CD**: Docker와 GitHub Actions를 활용한 자동 빌드 및 배포
-- 🔄 **Git Workflow**: 백엔드는 `main` 브랜치를 기준으로 작업하며, 각 기능이나 버그 수정을 위해 **이슈 번호를 포함한 브랜치**를 생성하여 진행합니다. 완료된 작업은 `main`로 PR을 생성하고, GitHub Actions가 자동으로 코드를 빌드하고 테스트합니다. 모든 테스트를 통과하면, `main`에 머지되고 자동으로 재배포가 이루어집니다.
+- 🔄 **Git Workflow**: 백엔드는 `main` 브랜치를 기준으로 작업하며, 각 기능이나 버그 수정을 위해 **이슈 번호를 포함한 브랜치**를 생성하여 진행합니다. 완료된 작업은 `main`으로 PR을 생성하고, GitHub Actions가 자동으로 코드를 빌드하고 테스트합니다. 모든 테스트를 통과하면, `main`에 머지되고 자동으로 재배포가 이루어집니다.
 
 
 <br><br>
@@ -93,7 +93,7 @@
 <br><br>
 ✨ Special Thanks ✨  
 Thanks to **Minji Kim** for her continuous support! 🚀  
-[GitHub repository](https://github.com/milkykim).
+[GitHub Profile](https://github.com/milkykim).
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=2f7d69)
